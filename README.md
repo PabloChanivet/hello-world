@@ -1,10 +1,9 @@
 # hello-world
 Tutorial 
 
-Tutorial rep
+Tutorial repository
 
 Hi world!
 This is a test
-creating a new branch
 
-eyy
+eeyyy
